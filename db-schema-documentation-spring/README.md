@@ -20,7 +20,7 @@ or pass them as environment variables.
     ```
 - **sql2dbml**: Install via npm:
   ```sh
-  npm install -g @dbml/core
+  npm install -g @dbml/cli
   ```
 - **dbml-renderer**: Install via npm:
   ```sh
